@@ -7,12 +7,15 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 //Elephant class
+//New Elephant class
+//all
+//classes
 
 public class Example {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int NTestcase;
+		int NTestcase=0;
 		String arr[] = new String[100];
 		Scanner in = new Scanner(System.in);
 		Ex obj = new Ex();
