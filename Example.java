@@ -24,6 +24,7 @@ public class Example {
 		for(int v=0;v<NTestcase;v++) {
 			
 			int c = obj.fun();
+			System.out.println("Hello");
 			System.out.println(c);
 			
 				if(c>0) {
