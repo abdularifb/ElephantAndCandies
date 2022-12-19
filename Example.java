@@ -6,6 +6,8 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Scanner;
 
+//Elephant class
+
 public class Example {
 
 	public static void main(String[] args) {
